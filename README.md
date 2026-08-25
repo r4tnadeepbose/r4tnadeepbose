@@ -1,8 +1,3 @@
-Yes. **No `assets/`, no external SVG files, no generated images** — just one polished `README.md` that works immediately in your profile repository.
-
-I'd make it more like a **security research terminal / engineering dossier** while keeping it recruiter-grade.
-
-````markdown
 <div align="center">
 
 # RATNADEEP BOSE
@@ -53,42 +48,29 @@ IMPACT
 REPORT
   ↓
 REMEDIATION
-````
-
----
-
-## `02` — SECURITY SURFACE
-
-| DOMAIN         | FOCUS                                                                           |
-| -------------- | ------------------------------------------------------------------------------- |
-| **WEB**        | Authentication · Authorization · Injection · XSS · CSRF · SSRF · Business Logic |
-| **API**        | BOLA / IDOR · Access Control · Rate Limiting · API Abuse · Data Exposure        |
-| **MOBILE**     | Android · Static Analysis · Dynamic Analysis · Frida · Runtime Instrumentation  |
-| **CLOUD**      | AWS · IAM · EC2 · WAF · Attack Surface                                          |
-| **RECON**      | Asset Discovery · Enumeration · Fingerprinting · Endpoint Discovery             |
-| **VAPT**       | Vulnerability Validation · Exploitation · Impact Analysis · Reporting           |
-| **SOC**        | SIEM · Alert Triage · Threat Detection · MITRE ATT&CK                           |
-| **AUTOMATION** | Python · Bash · Security Tooling                                                |
-
----
-
-## `03` — SECURITY RESEARCH
-
-### Responsible Disclosure
+02 — SECURITY SURFACE
+DOMAIN	FOCUS
+WEB	Authentication · Authorization · Injection · XSS · CSRF · SSRF · Business Logic
+API	BOLA / IDOR · Access Control · Rate Limiting · API Abuse · Data Exposure
+MOBILE	Android · Static Analysis · Dynamic Analysis · Frida · Runtime Instrumentation
+CLOUD	AWS · IAM · EC2 · WAF · Attack Surface
+RECON	Asset Discovery · Enumeration · Fingerprinting · Endpoint Discovery
+VAPT	Vulnerability Validation · Exploitation · Impact Analysis · Reporting
+SOC	SIEM · Alert Triage · Threat Detection · MITRE ATT&CK
+AUTOMATION	Python · Bash · Security Tooling
+03 — SECURITY RESEARCH
+Responsible Disclosure
 
 Security research and vulnerability disclosure across production applications
 and authorized security programs.
 
-**Recognized by**
+Recognized by
 
-* **Zepto** — Security Hall of Fame
-* **Paytm** — Validated Security Finding
-* **Zerodha** — Validated Security Finding
-* **Yatra** — Validated Security Finding
-
-### Research Areas
-
-```text
+Zepto — Security Hall of Fame
+Paytm — Validated Security Finding
+Zerodha — Validated Security Finding
+Yatra — Validated Security Finding
+Research Areas
 ACCESS CONTROL
 AUTHENTICATION
 BUSINESS LOGIC
@@ -97,94 +79,78 @@ INJECTION
 SECURITY MISCONFIGURATION
 SENSITIVE DATA EXPOSURE
 ATTACK-SURFACE DISCOVERY
-```
+04 — EXPERIENCE
+Information Security Intern
 
----
-
-## `04` — EXPERIENCE
-
-### Information Security Intern
-
-**Digi Samurai LLP · Kolkata · 2026**
+Digi Samurai LLP · Kolkata · 2026
 
 Hands-on security work across live client engagements and information-security
 operations.
 
-* Web application, API & mobile VAPT
-* Reconnaissance and attack-surface analysis
-* Vulnerability discovery and validation
-* Security research and risk analysis
-* Technical security documentation
-* Remediation recommendations
-* Security operations support
-* Cross-functional security activities
+Web application, API & mobile VAPT
+Reconnaissance and attack-surface analysis
+Vulnerability discovery and validation
+Security research and risk analysis
+Technical security documentation
+Remediation recommendations
+Security operations support
+Cross-functional security activities
+Security Researcher / Bug Bounty
 
-### Security Researcher / Bug Bounty
+Independent · 2026 — Present
 
-**Independent · 2026 — Present**
+Web and API security research
+Responsible disclosure
+Vulnerability validation
+Impact analysis
+Reconnaissance and OSINT
+Security automation
+05 — TOOLKIT
+APPLICATION SECURITY
 
-* Web and API security research
-* Responsible disclosure
-* Vulnerability validation
-* Impact analysis
-* Reconnaissance and OSINT
-* Security automation
+Burp Suite · OWASP ZAP · Nmap · Nuclei · ffuf
+Gobuster · SQLmap · Metasploit · Nikto · WPScan
 
----
+RECONNAISSANCE
 
-## `05` — TOOLKIT
+Subfinder · Amass · httpx · Katana · gau
+Wayback · Arjun
 
-### APPLICATION SECURITY
+MOBILE SECURITY
 
-`Burp Suite` · `OWASP ZAP` · `Nmap` · `Nuclei` · `ffuf`
-`Gobuster` · `SQLmap` · `Metasploit` · `Nikto` · `WPScan`
+MobSF · Frida · Objection · JADX · Apktool · ADB
 
-### RECONNAISSANCE
+ENGINEERING
 
-`Subfinder` · `Amass` · `httpx` · `Katana` · `gau`
-`Wayback` · `Arjun`
+Python · Bash · Linux
 
-### MOBILE SECURITY
+CLOUD & DEFENSE
 
-`MobSF` · `Frida` · `Objection` · `JADX` · `Apktool` · `ADB`
+AWS · IAM · EC2 · WAF · Splunk · Elastic · MITRE ATT&CK
 
-### ENGINEERING
+06 — CERTIFICATIONS & TRAINING
 
-`Python` · `Bash` · `Linux`
+Security Operations
 
-### CLOUD & DEFENSE
+SOC Level 1 · SOC Level 2 · Security Engineer
 
-`AWS` · `IAM` · `EC2` · `WAF` · `Splunk` · `Elastic` · `MITRE ATT&CK`
+Offensive Security
 
----
+Jr Penetration Tester · Web Fundamentals
 
-## `06` — CERTIFICATIONS & TRAINING
+Cloud / DevSecOps
 
-**Security Operations**
+AWS Cloud Security · DevSecOps · Fundamental Cloud & DevOps
 
-`SOC Level 1` · `SOC Level 2` · `Security Engineer`
+Security Research
 
-**Offensive Security**
+CRTOM · CLLMSE · SQL Injection Attacks
 
-`Jr Penetration Tester` · `Web Fundamentals`
+Development
 
-**Cloud / DevSecOps**
+Python Essentials 1 · Python Essentials 2
 
-`AWS Cloud Security` · `DevSecOps` · `Fundamental Cloud & DevOps`
-
-**Security Research**
-
-`CRTOM` · `CLLMSE` · `SQL Injection Attacks`
-
-**Development**
-
-`Python Essentials 1` · `Python Essentials 2`
-
----
-
-## `07` — CURRENT TRAJECTORY
-
-```text
+07 — CURRENT TRAJECTORY
 APPLICATION SECURITY
         │
         ├── WEB
@@ -200,51 +166,40 @@ SECURITY ENGINEERING
         │
         ▼
 AI SECURITY ENGINEERING
-```
 
-Currently deepening capabilities across **offensive security, application
-security, AWS security, security engineering, and AI security**.
+Currently deepening capabilities across offensive security, application
+security, AWS security, security engineering, and AI security.
 
----
+08 — PRINCIPLES
 
-## `08` — PRINCIPLES
+Understand the system before testing it.
 
-> **Understand the system before testing it.**
+Prove the behavior with reproducible evidence.
 
-> **Prove the behavior with reproducible evidence.**
+Measure impact, not assumptions.
 
-> **Measure impact, not assumptions.**
+Explain risk in terms engineering teams can act on.
 
-> **Explain risk in terms engineering teams can act on.**
+Respect authorization and responsible disclosure.
 
-> **Respect authorization and responsible disclosure.**
-
----
-
-## `09` — CONNECT
-
+09 — CONNECT
 <div align="center">
 
-**[Website](https://ratnadeep.site)** ·
-**[LinkedIn](https://www.linkedin.com/in/ratnadeepbose/)** ·
-**[TryHackMe](https://tryhackme.com/p/RatnadeepBose)** ·
-**[Credly](https://www.credly.com/users/ratnadeepbose/badges)**
+Website ·
+LinkedIn ·
+TryHackMe ·
+Credly
 
 <br><br>
 
-### `RECON → VALIDATE → EXPLOIT → UNDERSTAND → REMEDIATE`
+RECON → VALIDATE → EXPLOIT → UNDERSTAND → REMEDIATE
+</div> ```
+Why I'd use this version
 
-</div>
-```
+It has the same premium feel you're after without depending on image assets.
 
-### Why I'd use this version
-
-It has the **same premium feel** you're after without depending on image assets.
-
-It also avoids a common GitHub mistake: turning the profile into a giant collection of **badges, animated GIFs, skill icons, and meaningless GitHub stats**.
+It also avoids a common GitHub mistake: turning the profile into a giant collection of badges, animated GIFs, skill icons, and meaningless GitHub stats.
 
 Your strongest assets are already:
 
-**Zepto Hall of Fame + responsible disclosures + VAPT internship + actual tooling + security research.**
-
-This README puts those signals **above the fold** and makes the GitHub profile read like a **security researcher's technical dossier**, not a generic developer portfolio.
+Zepto Hall of Fame + responsible disclosures + VAPT internship + actual tooling + security research.
