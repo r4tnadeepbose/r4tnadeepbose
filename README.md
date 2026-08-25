@@ -21,16 +21,25 @@ Kolkata, India
 
 <br>
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  understand the attack surface → identify trust boundaries →             │
-│  validate behavior → establish impact → provide actionable remediation   │
-└──────────────────────────────────────────────────────────────────────────┘
+```bash
+root@r4tnadeepbose:~$ whoami
+ratnadeep bose — security researcher / vapt / appsec / security engineering
+
+root@r4tnadeepbose:~$ uname -a
+Linux r4tnadeepbose 6.1-security #1 SMP x86_64 GNU/Linux
+
+root@r4tnadeepbose:~$ cat /etc/motd
+understand the attack surface → identify trust boundaries →
+validate behavior → establish impact → provide actionable remediation
 ```
 
 <br>
 
 ## 01 / WHOAMI
+
+```bash
+root@r4tnadeepbose:~$ cat about.md
+```
 
 I work at the intersection of **offensive security research** and **application security engineering** — assessing web, API, mobile, and cloud systems to identify how they actually break, not just how they're documented to work.
 
@@ -99,18 +108,24 @@ Recent independent work has included mobile-focused research — APK decompilati
 
 ## 05 / FIELD TOOLKIT
 
-<table>
-<tr><td width="160"><b>Application Security</b></td><td>Burp Suite · OWASP ZAP · Nmap · Nuclei · ffuf · Gobuster · SQLmap · Metasploit · Nikto · WPScan</td></tr>
-<tr><td><b>Recon</b></td><td>Subfinder · Amass · httpx · Katana · gau · Wayback Machine · Arjun</td></tr>
-<tr><td><b>Mobile</b></td><td>MobSF · Frida · Objection · JADX · Apktool · ADB</td></tr>
-<tr><td><b>Engineering</b></td><td>Python · Bash · Linux</td></tr>
-<tr><td><b>Cloud</b></td><td>AWS · IAM · EC2 · WAF</td></tr>
-<tr><td><b>Security Operations</b></td><td>Splunk · Elastic · MITRE ATT&CK</td></tr>
-</table>
+```bash
+root@r4tnadeepbose:~$ ls -la ~/toolkit/
+
+drwxr-xr-x  appsec/              Burp Suite  OWASP ZAP  Nmap  Nuclei  ffuf  Gobuster  SQLmap  Metasploit  Nikto  WPScan
+drwxr-xr-x  recon/               Subfinder  Amass  httpx  Katana  gau  Wayback Machine  Arjun
+drwxr-xr-x  mobile/              MobSF  Frida  Objection  JADX  Apktool  ADB
+drwxr-xr-x  engineering/         Python  Bash  Linux
+drwxr-xr-x  cloud/               AWS  IAM  EC2  WAF
+drwxr-xr-x  security-ops/        Splunk  Elastic  MITRE ATT&CK
+```
 
 <br>
 
 ## 06 / CERTIFICATIONS
+
+```bash
+root@r4tnadeepbose:~$ cat certifications.log
+```
 
 `SOC Level 1` · `SOC Level 2` · `Security Engineer` · `Jr Penetration Tester` · `Web Fundamentals` · `DevSecOps` · `AWS Cloud Security` · `CRTOM` · `CLLMSE` · `Python Essentials 1` · `Python Essentials 2`
 
@@ -118,7 +133,9 @@ Recent independent work has included mobile-focused research — APK decompilati
 
 ## 07 / CURRENT TRAJECTORY
 
-```
+```bash
+root@r4tnadeepbose:~$ cat learning_path.log
+
 Application Security
         ↓
 Web / API / Mobile
@@ -159,5 +176,12 @@ Active learning is concentrated on **application security**, **offensive securit
 **FIND. VALIDATE. REMEDIATE.**
 
 [Website](https://ratnadeep.site/) · [LinkedIn](https://www.linkedin.com/in/ratnadeepbose/) · [TryHackMe](https://tryhackme.com/p/RatnadeepBose) · [Credly](https://www.credly.com/users/ratnadeepbose/badges) · [Email](mailto:ratnadeepbusiness321@gmail.com)
+
+<br>
+
+```bash
+root@r4tnadeepbose:~$ echo "authorized engagements & responsible disclosure only" >> scope.txt
+root@r4tnadeepbose:~$ _
+```
 
 </div>
