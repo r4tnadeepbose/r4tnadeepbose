@@ -10,12 +10,16 @@ Kolkata, India
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://ratnadeep.site/)
-[![Resume](https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://ratnadeep.site/assets/docs/Ratnadeep%20Bose%20CV.pdf)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratnadeepbose/)
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RatnadeepBose)
-[![Credly](https://img.shields.io/badge/CREDLY-000000?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ratnadeepbose/badges)
-[![Contact](https://img.shields.io/badge/CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratnadeepbusiness321@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=todoist&logoColor=39FF14)](https://ratnadeep.site/)
+[![Resume](https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readdotcv&logoColor=39FF14)](https://ratnadeep.site/assets/docs/Ratnadeep%20Bose%20CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/ratnadeepbose/)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=39FF14)](https://tryhackme.com/p/RatnadeepBose)
+[![Credly](https://img.shields.io/badge/CREDLY-000000?style=for-the-badge&logo=credly&logoColor=39FF14)](https://www.credly.com/users/ratnadeepbose/badges)
+[![Contact](https://img.shields.io/badge/CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:ratnadeepbusiness321@gmail.com)
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&duration=2800&color=39FF14&background=000000&center=true&vCenter=true&width=820&height=50&lines=root%40r4tnadeepbose%3A~%24+whoami;security+researcher+%7C+vapt+%7C+appsec+%7C+cloud;mapping+attack+surfaces+%E2%80%94+validating+impact;authorized+engagements+%26+responsible+disclosure+only)](https://git.io/typing-svg)
 
 </div>
 
@@ -47,6 +51,19 @@ My approach is deliberately methodical: map the attack surface, understand trust
 
 Currently building depth across offensive security fundamentals, AWS cloud security, and detection engineering — with security engineering, not just security testing, as the long-term direction.
 
+```bash
+root@r4tnadeepbose:~$ neofetch --security
+
+  OS:            Application Security Research
+  Host:          Digi Samurai LLP
+  Kernel:        VAPT Methodology (WSTG / ASVS aligned)
+  Shell:         bash / python3
+  Terminal:      Burp Suite / OWASP ZAP
+  Focus:         Web · API · Mobile · Cloud
+  Location:      Kolkata, India
+  Status:        Actively researching & testing
+```
+
 <br>
 
 ## 02 / ATTACK SURFACE
@@ -70,12 +87,14 @@ Independent vulnerability research and responsible disclosure, conducted under s
 
 **Recognition**
 
-| Organization | Outcome |
-|---|---|
-| Zepto | Security Hall of Fame |
-| Paytm | Validated Security Finding |
-| Zerodha | Validated Security Finding |
-| Yatra | Validated Security Finding |
+```diff
+root@r4tnadeepbose:~$ cat disclosures.log
+
++ zepto      :: security hall of fame
++ paytm      :: validated security finding
++ zerodha    :: validated security finding
++ yatra      :: validated security finding
+```
 
 **Research areas**
 
@@ -123,11 +142,21 @@ drwxr-xr-x  security-ops/        Splunk  Elastic  MITRE ATT&CK
 
 ## 06 / CERTIFICATIONS
 
-```bash
+```diff
 root@r4tnadeepbose:~$ cat certifications.log
-```
 
-`SOC Level 1` · `SOC Level 2` · `Security Engineer` · `Jr Penetration Tester` · `Web Fundamentals` · `DevSecOps` · `AWS Cloud Security` · `CRTOM` · `CLLMSE` · `Python Essentials 1` · `Python Essentials 2`
++ SOC Level 1
++ SOC Level 2
++ Security Engineer
++ Jr Penetration Tester
++ Web Fundamentals
++ DevSecOps
++ AWS Cloud Security
++ CRTOM
++ CLLMSE
++ Python Essentials 1
++ Python Essentials 2
+```
 
 <br>
 
@@ -155,15 +184,15 @@ Active learning is concentrated on **application security**, **offensive securit
 
 ## 08 / OPERATING PRINCIPLES
 
-> Understand the system before testing it.
+```diff
+root@r4tnadeepbose:~$ cat principles.log
 
-> Prove behavior with reproducible evidence.
-
-> Measure impact, not assumptions.
-
-> Explain risk in terms engineering teams can act on.
-
-> Respect authorization and responsible disclosure.
++ understand the system before testing it
++ prove behavior with reproducible evidence
++ measure impact, not assumptions
++ explain risk in terms engineering teams can act on
++ respect authorization and responsible disclosure
+```
 
 <br>
 
