@@ -1,101 +1,169 @@
-# Ratnadeep Bose
+<div align="center">
 
-### Security Researcher · VAPT · Application Security · Security Engineering
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg">
+  <img src="assets/header.svg" alt="Ratnadeep Bose — Security Researcher">
+</picture>
 
-I am a security practitioner focused on identifying, validating, and communicating
-security vulnerabilities across web applications, APIs, mobile applications, and
-cloud environments.
+<br>
 
-My approach is evidence-driven: understand the attack surface, identify trust
-boundaries, validate security impact, and translate technical findings into
-actionable remediation.
+<a href="https://ratnadeep.site">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logoColor=ffffff" alt="Portfolio">
+</a>
+<a href="https://ratnadeep.site/assets/docs/Ratnadeep%20Bose%20CV.pdf">
+  <img src="https://img.shields.io/badge/RESUME-111111?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff" alt="Resume">
+</a>
+<a href="https://www.linkedin.com/in/ratnadeepbose/">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn">
+</a>
+<a href="https://tryhackme.com/p/RatnadeepBose">
+  <img src="https://img.shields.io/badge/TRACK_RECORD-111111?style=flat-square&logo=tryhackme&logoColor=ffffff" alt="TryHackMe">
+</a>
+<a href="mailto:ratnadeepbusiness321@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-111111?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email">
+</a>
 
----
+</div>
 
-## Focus
+<br>
 
-- Application Security
-- Web & API Security
-- Mobile Application Security
-- Vulnerability Assessment & Penetration Testing
-- Security Research & Responsible Disclosure
-- Cloud Security
-- Security Engineering
-- Security Automation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg">
+  <img src="assets/s01.svg" alt="01 — whoami">
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg">
+  <img src="assets/whoami.svg" alt="About Ratnadeep">
+</picture>
 
-## Security Research
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/whoami.svg">
+  <img src="assets/whoami.svg" alt="Security researcher profile">
+</picture>
 
-I conduct authorized security research and responsible-disclosure work across
-production applications and security programs.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg">
+  <img src="assets/s02.svg" alt="02 — security surface">
+</picture>
 
-Selected recognition includes validated security findings acknowledged by:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/methodology.svg">
+  <img src="assets/methodology.svg" alt="Security assessment methodology">
+</picture>
 
-- Zepto — Security Hall of Fame
-- Paytm
-- Zerodha
-- Yatra
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg">
+  <img src="assets/s03.svg" alt="03 — security research">
+</picture>
 
-Research areas include:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/research.svg">
+  <img src="assets/research.svg" alt="Security research and responsible disclosure">
+</picture>
 
-- Authentication & authorization
-- Access-control vulnerabilities
-- API security
-- Business-logic flaws
-- Injection vulnerabilities
-- Security misconfigurations
-- Sensitive-data exposure
-- Attack-surface discovery
+<div align="center">
 
----
+### SELECTED RESEARCH
 
-## Technical Stack
+| AREA | FOCUS |
+|:---|:---|
+| WEB | Authentication · Authorization · Injection · Business Logic |
+| API | BOLA / IDOR · Access Control · Rate Limiting · API Abuse |
+| MOBILE | Android · Static Analysis · Dynamic Analysis · Runtime Instrumentation |
+| CLOUD | AWS · IAM · EC2 · WAF · Attack Surface |
+| RECON | Asset Discovery · Enumeration · Technology Fingerprinting |
+| AUTOMATION | Python · Bash · Security Tooling |
 
-### Application Security
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg">
+  <img src="assets/s04.svg" alt="04 — recognition">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/recognition.svg">
+  <img src="assets/recognition.svg" alt="Security research recognition">
+</picture>
+
+<div align="center">
+
+### RESPONSIBLE DISCLOSURE
+
+**Zepto** · Security Hall of Fame  
+**Paytm** · Validated Security Finding  
+**Zerodha** · Validated Security Finding  
+**Yatra** · Validated Security Finding
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg">
+  <img src="assets/s05.svg" alt="05 — experience">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg">
+  <img src="assets/experience.svg" alt="Professional experience">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg">
+  <img src="assets/s06.svg" alt="06 — technical stack">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg">
+  <img src="assets/stack.svg" alt="Security tooling and technologies">
+</picture>
+
+<div align="center">
+
+### APPLICATION SECURITY
 
 `Burp Suite` · `OWASP ZAP` · `Nmap` · `Nuclei` · `ffuf` · `Gobuster`  
 `SQLmap` · `Metasploit` · `Nikto` · `WPScan`
 
-### Reconnaissance
+### RECONNAISSANCE
 
 `Subfinder` · `Amass` · `httpx` · `Katana` · `gau` · `Wayback` · `Arjun`
 
-### Mobile Security
+### MOBILE
 
 `MobSF` · `Frida` · `Objection` · `JADX` · `Apktool` · `ADB`
 
-### Engineering & Automation
+### ENGINEERING
 
-`Python` · `Bash` · `Linux`
+`Python` · `Bash` · `Linux` · `AWS`
 
-### Cloud
+</div>
 
-`AWS` · `IAM` · `EC2` · `WAF`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s07.svg">
+  <img src="assets/s07.svg" alt="07 — current trajectory">
+</picture>
 
-### Security Operations
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/trajectory.svg">
+  <img src="assets/trajectory.svg" alt="Current security engineering trajectory">
+</picture>
 
-`Splunk` · `Elastic` · `MITRE ATT&CK` · Detection Engineering
-
----
-
-## Methodology
+<div align="center">
 
 ```text
-Reconnaissance
-      ↓
-Attack Surface Mapping
-      ↓
-Enumeration
-      ↓
-Security Assessment
-      ↓
-Manual Validation
-      ↓
-Impact Analysis
-      ↓
-Evidence Collection
-      ↓
-Reporting & Remediation
-      ↓
-Retesting
+APPLICATION SECURITY
+        │
+        ├── WEB
+        ├── API
+        └── MOBILE
+        │
+        ▼
+SECURITY ENGINEERING
+        │
+        ├── CLOUD SECURITY
+        ├── AUTOMATION
+        └── DETECTION
+        │
+        ▼
+AI SECURITY ENGINEERING
