@@ -8,7 +8,7 @@
 
 Kolkata, India
 
-[Portfolio](https://ratnadeep.space/) ·  [LinkedIn](https://www.linkedin.com/in/ratnadeepbose/) · [TryHackMe](https://tryhackme.com/p/RatnadeepBose) · [Credly](https://www.credly.com/users/ratnadeepbose/badges) · [Email](mailto:ratnadeepbusiness321@gmail.com)
+[Portfolio](https://ratnadeep.space/) ·  [CV](https://www.ratnadeep.space/assets/docs/Ratnadeep-Bose-CV.pdf) · [LinkedIn](https://www.linkedin.com/in/ratnadeepbose/) · [TryHackMe](https://tryhackme.com/p/RatnadeepBose) · [Credly](https://www.credly.com/users/ratnadeepbose/badges) · [Email](mailto:ratnadeepbusiness321@gmail.com)
 
 </div>
 
